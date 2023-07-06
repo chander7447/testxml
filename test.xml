@@ -1,0 +1,99 @@
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9" xmlns:coveo="https://www.coveo.com/en/company/about-us">
+<url>
+<loc>https://employeedbtutorialsite.herokuapp.com/employees/Marcela-Finiti</loc>
+<lastmod>2022-11-24</lastmod>
+<changefreq>monthly</changefreq>
+<coveo:metadata>
+<documentId>https://herbalife1.com/HL908070</documentId>
+		<contentType>Media</contentType>
+		<title>Sample Media</title>
+		<author>Media Author</author>
+		<publicationDate>2012/12/30</publicationDate>
+		<goal>Test Goal</goal>
+		<likes>100</likes>
+		<views  >100</views  >
+		<body>sample body</body>
+		<heroImage>sample image</heroImage>
+		<keyWords>sample</keyWords>
+		<mealType>Breakfast</mealType>
+		<totalTime>20 min</totalTime>
+		<preparationTime>10 min</preparationTime>
+		<cookingTime>10 min</cookingTime>
+		<servingSize>2</servingSize>
+		<ingredients>Protein</ingredients>
+		<preparation  >dummy</preparation  >
+		<video>sample video</video>
+		<subTitle>Meal</subTitle>
+		<teaserText>Meal Replacement</teaserText>
+		<longDescription>Meal Replacement for breakfast</longDescription>
+		<durationTime>20 min</durationTime>
+		<videoDetailPageAuthor>dummy</videoDetailPageAuthor>
+		<scheduledStartDate>2012/12/30</scheduledStartDate>
+		<saves>100</saves>
+		<shares  >100</shares  >
+		<videoTranscript>dummy</videoTranscript>
+		<productsUsedInTheVideo>Protein</productsUsedInTheVideo>
+		<videoId>123</videoId>
+		<fileName>Sample</fileName>
+		<category>Media</category>
+		<jobTitles>Media</jobTitles>
+		<socialMediaLinks>dummy</socialMediaLinks>
+		<introduction>Meal Replacement</introduction>
+		<description>Meal Replacement for breakfast</description>
+		<transcript  >dummy</transcript  >
+		<closeCaptions>Meal Replacement for breakfast</closeCaptions>
+		<audience>dummy</audience>
+		<local>en_gb</local>
+		<region>uk</region>
+</coveo:metadata>
+</url>
+<url>
+<loc>https://employeedbtutorialsite.herokuapp.com/employees/Gabriel-Dias</loc>
+<lastmod>2022-11-23</lastmod>
+<changefreq>monthly</changefreq>
+<coveo:metadata>
+<documentId>https://herbalife1.com/HL908070</documentId>
+		<contentType>Media</contentType>
+		<title>Sample Media</title>
+		<author>Media Author</author>
+		<publicationDate>2012/12/30</publicationDate>
+		<goal>Test Goal</goal>
+		<likes>100</likes>
+		<views  >100</views  >
+		<body>sample body</body>
+		<heroImage>sample image</heroImage>
+		<keyWords>sample</keyWords>
+		<mealType>Breakfast</mealType>
+		<totalTime>20 min</totalTime>
+		<preparationTime>10 min</preparationTime>
+		<cookingTime>10 min</cookingTime>
+		<servingSize>2</servingSize>
+		<ingredients>Protein</ingredients>
+		<preparation  >dummy</preparation  >
+		<video>sample video</video>
+		<subTitle>Meal</subTitle>
+		<teaserText>Meal Replacement</teaserText>
+		<longDescription>Meal Replacement for breakfast</longDescription>
+		<durationTime>20 min</durationTime>
+		<videoDetailPageAuthor>dummy</videoDetailPageAuthor>
+		<scheduledStartDate>2012/12/30</scheduledStartDate>
+		<saves>100</saves>
+		<shares  >100</shares  >
+		<videoTranscript>dummy</videoTranscript>
+		<productsUsedInTheVideo>Protein</productsUsedInTheVideo>
+		<videoId>123</videoId>
+		<fileName>Sample</fileName>
+		<category>Media</category>
+		<jobTitles>Media</jobTitles>
+		<socialMediaLinks>dummy</socialMediaLinks>
+		<introduction>Meal Replacement</introduction>
+		<description>Meal Replacement for breakfast</description>
+		<transcript  >dummy</transcript  >
+		<closeCaptions>Meal Replacement for breakfast</closeCaptions>
+		<audience>dummy</audience>
+		<local>en_gb</local>
+		<region>uk</region>
+</coveo:metadata>
+</url>
+
+</urlset>
